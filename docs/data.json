@@ -1,0 +1,1748 @@
+{
+  "restaurant": {
+    "name": "Райский дворик",
+    "description": "Мы предлагаем разнообразие восточных и европейских блюд, вкусный шашлык и теплую, дружелюбную атмосферу.",
+    "address": "Алматы, Турксибский район, ул. Закарпатская 9",
+    "hours": "10:00–00:00 (Кухня: до 23:30)",
+    "phone": "+7-747-797-88-03",
+    "rules": "Цены указаны в тенге. Оплата наличными или картой. Сервисный сбор 10%. Кафе не несет ответственности за утерю или повреждение личных вещей.",
+    "fines": "Штрафы за бой посуды: Стакан-1500, Тарелка цветная-3500, Косушка цветная-2500, Графин-2500, Блюдце-1000, Кружка-1500, Ляган-3500, Чайник-2500, Графин для водки-6500, Белая тарелка-500, Белая косушка-500"
+  },
+  "categories": [
+    {
+      "id": "cat_1",
+      "name": "Салаты",
+      "items": [
+        {
+          "id": "item_2",
+          "name": "Руккола с креветками темпура",
+          "price": "3200",
+          "variants": [],
+          "description": "(Руккола, лист салата, креветки королевские, сыр кремета, черри, соус свит Чили, кедровые орешки)",
+          "image": "images/img-1789895258798-807816443.png"
+        },
+        {
+          "id": "item_3",
+          "name": "Баклажаны с мясом",
+          "price": "3200",
+          "variants": [],
+          "description": "(Баклажаны, говядина, перец полу-горький, черри, кинза, соус свит Чили терияки)",
+          "image": "images/img-1789895333170-990717658.png"
+        },
+        {
+          "id": "item_4",
+          "name": "Свежий салат",
+          "price": "1900",
+          "variants": [],
+          "description": "(Майонез или масло; помидоры, огурцы, оливковое масло, зелень)",
+          "image": "images/img-1789895362242-400741617.png"
+        },
+        {
+          "id": "item_5",
+          "name": "Ачичук",
+          "price": "1900",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895376955-408078426.png"
+        },
+        {
+          "id": "item_6",
+          "name": "Чобан",
+          "price": "2200",
+          "variants": [],
+          "description": "(Помидоры, огурцы, болгарский перец, лук, зелень, лимон)",
+          "image": "images/img-1789895385176-300654323.png"
+        },
+        {
+          "id": "item_7",
+          "name": "Полезный салат",
+          "price": "2800",
+          "variants": [],
+          "description": "(Руккола, свёкла, апельсин, сыр фета-стиль, оливковое масло, гранатовый сок)",
+          "image": "images/img-1789895394995-267766878.png"
+        },
+        {
+          "id": "item_8",
+          "name": "Греческий салат",
+          "price": "2600",
+          "variants": [],
+          "description": "(Салат, болгарский перец, огурцы, помидоры, сыр брынза, маслины)",
+          "image": "images/img-1789895427792-392767838.png"
+        },
+        {
+          "id": "item_9",
+          "name": "Микс салат с семгой",
+          "price": "3200",
+          "variants": [],
+          "description": "(Салат, руккола, лолло россо, оливковое масло, гранатовый соус, лимон, черри)",
+          "image": "images/img-1789895447320-457340638.png"
+        },
+        {
+          "id": "item_10",
+          "name": "Микс салат с телятиной",
+          "price": "3200",
+          "variants": [],
+          "description": "(Лист салата, руккола, лолло россо, оливковое масло,гранатовый соус, лимон, огурцы, черри, соус свит чили)",
+          "image": "images/img-1789895459901-460250663.png"
+        },
+        {
+          "id": "item_11",
+          "name": "Оливье классический",
+          "price": "2600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895476294-191052936.png"
+        },
+        {
+          "id": "item_12",
+          "name": "Мясной салат Оливье",
+          "price": "2800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895511298-916666828.png"
+        },
+        {
+          "id": "item_13",
+          "name": "Пекинский салат",
+          "price": "3200",
+          "variants": [],
+          "description": "(Огурцы, помидоры, полугорький перец, лук, говядина, чеснок, кинза)",
+          "image": "images/img-1789895522640-45719960.png"
+        },
+        {
+          "id": "item_14",
+          "name": "Цезарь с курицей",
+          "price": "2800",
+          "variants": [],
+          "description": "(Салат айсберг, перепелиные яйца, помидоры черри,запечённое куриное филе, пармезан, соус Цезарь,крутоны)",
+          "image": "images/img-1789895542199-369106024.png"
+        },
+        {
+          "id": "item_15",
+          "name": "Цезарь с лососем",
+          "price": "3400",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895552860-477361582.png"
+        },
+        {
+          "id": "item_16",
+          "name": "Цезарь с креветками",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895562211-603234499.png"
+        },
+        {
+          "id": "item_17",
+          "name": "Гнездо глухаря",
+          "price": "2800",
+          "variants": [],
+          "description": "(Отварная курица, огурцы, яйца, картофель пай, майонез)",
+          "image": "images/img-1789895591426-464605521.png"
+        },
+        {
+          "id": "item_18",
+          "name": "Баклажаны по-восточному",
+          "price": "2600",
+          "variants": [],
+          "description": "(Баклажан, помидоры черри, болгарский перец, шампиньоны, кинза, чеснок, растительное масло, соевый соус)",
+          "image": "images/img-1789895601996-633368529.png"
+        },
+        {
+          "id": "item_19",
+          "name": "Хрустящие баклажаны",
+          "price": "2900",
+          "variants": [],
+          "description": "(Баклажаны, помидоры, соус свит-чили, чеснок, бальзамик)",
+          "image": "images/img-1789895610242-231050722.png"
+        },
+        {
+          "id": "item_20",
+          "name": "Баварский салат",
+          "price": "2800",
+          "variants": [],
+          "description": "(Картошка, кабачок, черри, лук,баклажан, охотничьи колбаски, грибы, корнишоны)",
+          "image": "images/img-1789895619320-692402143.png"
+        },
+        {
+          "id": "item_21",
+          "name": "Баклажаны с жареной брынзой",
+          "price": "3200",
+          "variants": [],
+          "description": "(Баклажан, жареная брынза, зелень, чеснок, оливковое масло, черри)",
+          "image": "images/img-1789895633173-293196649.png"
+        },
+        {
+          "id": "item_22",
+          "name": "Карын-Сяй",
+          "price": "2800",
+          "variants": [],
+          "description": "(Требуха, овощи, соевый соус)",
+          "image": "images/img-1789895654359-850389736.png"
+        },
+        {
+          "id": "item_23",
+          "name": "Жареный тофу с грибами муэр",
+          "price": "2800",
+          "variants": [],
+          "description": "(Тофу, грибы муэр, соевый соус, чеснок, кунжутное масло)",
+          "image": "images/img-1789895677526-912226854.png"
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": "cat_24",
+      "name": "Ассорти",
+      "items": [
+        {
+          "id": "item_25",
+          "name": "Казахская нарезка",
+          "price": "6800",
+          "variants": [],
+          "description": "(Жая, карта, казы)",
+          "image": "images/img-1789895701080-122461222.png"
+        },
+        {
+          "id": "item_26",
+          "name": "Мясная нарезка",
+          "price": "6000",
+          "variants": [],
+          "description": "(Говяжий язык, копчёная говядина, куриный рулет)",
+          "image": "images/img-1789895714926-699763569.png"
+        },
+        {
+          "id": "item_27",
+          "name": "Кавказская закуска",
+          "price": "3200",
+          "variants": [],
+          "description": "(Помидоры, огурцы, болгарский перец, брынза, маслины, зелень ассорти)",
+          "image": "images/img-1789895731999-867916637.png"
+        },
+        {
+          "id": "item_28",
+          "name": "Русская закуска",
+          "price": "2900",
+          "variants": [],
+          "description": "(Селёдка, маринованные огурцы, отварной картофель, лук)",
+          "image": "images/img-1789895741353-898766702.png"
+        },
+        {
+          "id": "item_29",
+          "name": "Ассорти из солений",
+          "price": "2900",
+          "variants": [],
+          "description": "(Маринованные: огурцы, грибы опята, грузди, квашенная капуста, зелень)",
+          "image": "images/img-1789895755037-819643845.png"
+        },
+        {
+          "id": "item_30",
+          "name": "Рыбная нарезка",
+          "price": "7500",
+          "variants": [],
+          "description": "(Семга малосольная, эсколар, скумбрия, лимон, оливки, зелень)",
+          "image": "images/img-1789895766390-679002238.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_31",
+      "name": "Первые блюда",
+      "items": [
+        {
+          "id": "item_32",
+          "name": "Окрошка с мясом / колбасой",
+          "price": "1800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895788418-599228727.png"
+        },
+        {
+          "id": "item_33",
+          "name": "Уха по-царски",
+          "price": "2800",
+          "variants": [],
+          "description": "(Лосось, картофель, зелёный лук, укроп)",
+          "image": "images/img-1789895799740-431789083.png"
+        },
+        {
+          "id": "item_34",
+          "name": "Солянка сборная",
+          "price": "2300",
+          "variants": [],
+          "description": "(Копчёная говядина, копчёная курица, копчёная колбаса, соленые огурцы, маслины)",
+          "image": "images/img-1789895810127-765543724.png"
+        },
+        {
+          "id": "item_35",
+          "name": "Лапша домашняя с курицей",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895822276-525785109.png"
+        },
+        {
+          "id": "item_36",
+          "name": "Суп-харчо",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895833336-209407740.png"
+        },
+        {
+          "id": "item_37",
+          "name": "Крем-суп из чечевицы",
+          "price": "1800",
+          "variants": [],
+          "description": "(Чечевица, сливки)",
+          "image": "images/img-1789895843560-678912416.png"
+        },
+        {
+          "id": "item_38",
+          "name": "Грибной крем-суп",
+          "price": "2200",
+          "variants": [],
+          "description": "(Шампиньоны, сливки)",
+          "image": "images/img-1789895857178-619830373.png"
+        },
+        {
+          "id": "item_39",
+          "name": "Пельмени по домашнему",
+          "price": "2300",
+          "variants": [],
+          "description": "(Говяжий бульон, зелёный лук, укроп)",
+          "image": "images/img-1789895869548-698000730.png"
+        },
+        {
+          "id": "item_40",
+          "name": "Боз-баш из баранины",
+          "price": "2800",
+          "variants": [],
+          "description": "(Сорпа по-восточному из баранины)",
+          "image": "images/img-1789895881560-872681135.png"
+        },
+        {
+          "id": "item_42",
+          "name": "Сорпа по-узбекски из говядины",
+          "price": "2800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895907758-907370510.png"
+        },
+        {
+          "id": "item_43",
+          "name": "Нарын",
+          "price": "2800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895924361-468116075.png"
+        },
+        {
+          "id": "item_44",
+          "name": "Бешбармак",
+          "price": "4200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789895935528-563415058.png"
+        },
+        {
+          "id": "item_1789895967067",
+          "name": "Том Ям (подается с рисом)",
+          "price": "30003600",
+          "variants": [
+            {
+              "name": "Морепродукты",
+              "price": "3600"
+            },
+            {
+              "name": "Курица",
+              "price": "3000"
+            },
+            {
+              "name": "Говядина",
+              "price": "3300"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789896059771-540408662.png"
+        },
+        {
+          "id": "item_1789896063185",
+          "name": "Рамен",
+          "price": "0",
+          "variants": [
+            {
+              "name": "Морепродукты",
+              "price": "2800"
+            },
+            {
+              "name": "Курица",
+              "price": "2300"
+            },
+            {
+              "name": "Говядина",
+              "price": "2600"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789896129265-493314074.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_45",
+      "name": "Вторые горячие блюда",
+      "items": [
+        {
+          "id": "item_46",
+          "name": "Спагетти Болоньезе",
+          "price": "3000",
+          "variants": [],
+          "description": "(Спагетти, фарш говяжий, сельдерей, томатная паста,морковь, зел.чеснок)",
+          "image": "images/img-1789896174911-446826163.png"
+        },
+        {
+          "id": "item_47",
+          "name": "Фетучини Альфредо",
+          "price": "3200",
+          "variants": [],
+          "description": "(Шампиньоны, куриное филе, сливки)",
+          "image": "images/img-1789896183342-479012068.png"
+        },
+        {
+          "id": "item_48",
+          "name": "Фетучини с лососем и креветками",
+          "price": "3600",
+          "variants": [],
+          "description": "(Лосось, креветки, шампиньоны, шпинат, сливки)",
+          "image": "images/img-1789896195290-554569545.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_49",
+      "name": "Блюда из говядины",
+      "items": [
+        {
+          "id": "item_50",
+          "name": "Бефстроганов с рисом/с пюре/с фарфалле",
+          "price": "3600",
+          "variants": [],
+          "description": "(Телятина, шампиньоны, корнишоны, сливки)",
+          "image": "images/img-1789896223158-254924263.png"
+        },
+        {
+          "id": "item_51",
+          "name": "Мясо по-тайски",
+          "price": "3800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896234171-49765795.png"
+        },
+        {
+          "id": "item_52",
+          "name": "Картофель по-деревенски",
+          "price": "3400",
+          "variants": [],
+          "description": "(Картофель, телятина, патиссоны, соленые огурцы, зелень)",
+          "image": "images/img-1789896244242-213572440.png"
+        },
+        {
+          "id": "item_53",
+          "name": "Фри с мясом",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896253140-212049609.png"
+        },
+        {
+          "id": "item_54",
+          "name": "Говяжьи ребра в соусе барбекю",
+          "price": "4600",
+          "variants": [],
+          "description": "(Ребра говядины, картофельные шарики, зелень)",
+          "image": "images/img-1789896271088-106004370.png"
+        },
+        {
+          "id": "item_55",
+          "name": "Говяжий язык под соусом Тонато",
+          "price": "3200",
+          "variants": [],
+          "description": "(Язык, руккола или микс салата, каперсы, черри)",
+          "image": "images/img-1789896291777-151391869.png"
+        },
+        {
+          "id": "item_56",
+          "name": "Плов",
+          "price": "2300",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896309694-635993555.png"
+        },
+        {
+          "id": "item_57",
+          "name": "Гуйру лагман",
+          "price": "2800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896369244-59100812.png"
+        },
+        {
+          "id": "item_58",
+          "name": "Суйру лагман",
+          "price": "2800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896382352-880218184.png"
+        },
+        {
+          "id": "item_59",
+          "name": "Цомян",
+          "price": "2800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896393789-559396431.png"
+        },
+        {
+          "id": "item_60",
+          "name": "Лагман с джусаем и яйцом",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896419609-442059770.png"
+        },
+        {
+          "id": "item_61",
+          "name": "Мошуру лагман",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896446545-243061036.png"
+        },
+        {
+          "id": "item_62",
+          "name": "Манты",
+          "price": "2200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896468546-195299685.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_63",
+      "name": "Блюда из баранины и конины",
+      "items": [
+        {
+          "id": "item_64",
+          "name": "Казан кебаб",
+          "price": "3800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896486555-751231886.png"
+        },
+        {
+          "id": "item_65",
+          "name": "Куырдак из баранины",
+          "price": "4200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896530864-797532229.png"
+        },
+        {
+          "id": "item_66",
+          "name": "Бешбармак",
+          "price": "4200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896541172-970423097.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_67",
+      "name": "Блюда из курицы",
+      "items": [
+        {
+          "id": "item_68",
+          "name": "Лапша удон",
+          "price": "2800",
+          "variants": [],
+          "description": "(Лапша удон, филе кур., перец болг., морковь, кабачок, имбирь св., терияки, кунжутное масло, кунжут, соевый соус, чеснок, лук репчатый)",
+          "image": "images/img-1789896559577-619595130.png"
+        },
+        {
+          "id": "item_69",
+          "name": "Курица с грибами в сливочном соусе",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896570253-173529660.png"
+        },
+        {
+          "id": "item_70",
+          "name": "Шницель",
+          "price": "3200",
+          "variants": [],
+          "description": "(Кур.филе, кляр панка, грибы, сливки, руккола, черри)",
+          "image": "images/img-1789896592071-346932043.png"
+        },
+        {
+          "id": "item_71",
+          "name": "Наггетсы",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896601659-674829024.png"
+        },
+        {
+          "id": "item_72",
+          "name": "Стрипсы",
+          "price": "1800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896611058-777623380.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_73",
+      "name": "Колбаски",
+      "items": [
+        {
+          "id": "item_74",
+          "name": "Колбаски гриль ассорти",
+          "price": "3400",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896652080-115353759.png"
+        },
+        {
+          "id": "item_75",
+          "name": "Колбаски гриль куриные",
+          "price": "2600",
+          "variants": [],
+          "description": "(Картофельные дольки, квашеная капуста, черный хлеб)",
+          "image": "images/img-1789896663025-209584944.png"
+        },
+        {
+          "id": "item_76",
+          "name": "Колбаска гриль из говядины",
+          "price": "3000",
+          "variants": [],
+          "description": "(Картофельные дольки, квашеная капуста, черный хлеб)",
+          "image": "images/img-1789896684151-499456804.png"
+        },
+        {
+          "id": "item_77",
+          "name": "Колбаска гриль из баранины",
+          "price": "3200",
+          "variants": [],
+          "description": "(Картофельные дольки, квашеная капуста, черный хлеб)",
+          "image": "images/img-1789896693941-243801886.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_78",
+      "name": "Блюда из рыбы",
+      "items": [
+        {
+          "id": "item_79",
+          "name": "Стейк из семги",
+          "price": "5200",
+          "variants": [],
+          "description": "(Икорный соус, лимон, маслины, овощами гриль или картофельными дольками)",
+          "image": "images/img-1789896728393-46664749.png"
+        },
+        {
+          "id": "item_80",
+          "name": "Стейк из судака",
+          "price": "3600",
+          "variants": [],
+          "description": "(С икорным соусом, гарнир на выбор)",
+          "image": "images/img-1789896736521-811643836.png"
+        },
+        {
+          "id": "item_81",
+          "name": "Судак жареный в казане",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896787410-860319626.png"
+        },
+        {
+          "id": "item_82",
+          "name": "Сазан жареный по домашнему",
+          "price": "4600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896796524-361223258.png"
+        },
+        {
+          "id": "item_83",
+          "name": "Форель запечённая",
+          "price": "4200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896807826-474059698.png"
+        },
+        {
+          "id": "item_84",
+          "name": "Скумбрия запечённая",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896821268-963266352.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_85",
+      "name": "Гарниры",
+      "items": [
+        {
+          "id": "item_86",
+          "name": "Рис",
+          "price": "600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896870164-31642262.png"
+        },
+        {
+          "id": "item_87",
+          "name": "Картофельное пюре",
+          "price": "780",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896879877-465650146.png"
+        },
+        {
+          "id": "item_88",
+          "name": "Картофель фри",
+          "price": "900",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896889072-927626916.png"
+        },
+        {
+          "id": "item_89",
+          "name": "Картофельные дольки",
+          "price": "950",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896899495-177823987.png"
+        },
+        {
+          "id": "item_90",
+          "name": "Овощи-гриль",
+          "price": "1300",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896907853-554312146.png"
+        },
+        {
+          "id": "item_91",
+          "name": "Лагманное тесто/ макароны",
+          "price": "760",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789896929493-748774424.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_92",
+      "name": "Стейки",
+      "items": [
+        {
+          "id": "item_93",
+          "name": "Стейк Ти-Бон",
+          "price": "5600",
+          "variants": [],
+          "description": "(Говядина, салатный микс, овощи гриль, картофельные дольки)",
+          "image": "images/img-1789896949098-489847459.png"
+        },
+        {
+          "id": "item_94",
+          "name": "Стейк Рибай",
+          "price": "6000",
+          "variants": [],
+          "description": "(Салатный микс, овощи гриль, картофельные дольки)",
+          "image": "images/img-1789896965191-341270159.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_95",
+      "name": "Шашлык & Мясо-гриль",
+      "items": [
+        {
+          "id": "item_96",
+          "name": "Баранина",
+          "price": "1800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897046139-555830913.png"
+        },
+        {
+          "id": "item_97",
+          "name": "Антрекот из баранины",
+          "price": "3800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897055537-744360138.png"
+        },
+        {
+          "id": "item_98",
+          "name": "Семечки из ребрышек",
+          "price": "1800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897065604-276158626.png"
+        },
+        {
+          "id": "item_99",
+          "name": "Люля-кебаб",
+          "price": "1700",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897073098-730935128.png"
+        },
+        {
+          "id": "item_100",
+          "name": "Люля- кебаб в оболочке",
+          "price": "1800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897081007-237935514.png"
+        },
+        {
+          "id": "item_101",
+          "name": "Печень в оболочке",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897089435-360742910.png"
+        },
+        {
+          "id": "item_102",
+          "name": "Окорочка",
+          "price": "1500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897109595-474203360.png"
+        },
+        {
+          "id": "item_103",
+          "name": "Крылышки",
+          "price": "1500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897117192-983153924.png"
+        },
+        {
+          "id": "item_104",
+          "name": "Куриное филе",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897127702-667852063.png"
+        },
+        {
+          "id": "item_105",
+          "name": "Утиное филе",
+          "price": "1800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897141926-855784838.png"
+        },
+        {
+          "id": "item_106",
+          "name": "Шампиньоны",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897156092-210816892.png"
+        },
+        {
+          "id": "item_107",
+          "name": "Овощи гриль",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897171617-345452513.png"
+        },
+        {
+          "id": "item_108",
+          "name": "Седло ягненка",
+          "price": "4800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897190610-597950453.png"
+        },
+        {
+          "id": "item_109",
+          "name": "Ассорти на 5 человек",
+          "price": "18000",
+          "variants": [],
+          "description": "(Баранина, семечки из ребрышек, люля-кебаб, печень в оболочке, окорочка, крылышки, куриное филе, утка,шампиньоны, овощи гриль)",
+          "image": "images/img-1789897208819-619127914.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_110",
+      "name": "Соусы",
+      "items": [
+        {
+          "id": "item_111",
+          "name": "Красный соус",
+          "price": "550",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897226022-136377233.png"
+        },
+        {
+          "id": "item_112",
+          "name": "Белый соус",
+          "price": "550",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897236776-800386124.png"
+        },
+        {
+          "id": "item_113",
+          "name": "Соус кисло-сладкий",
+          "price": "600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897287532-27741898.png"
+        },
+        {
+          "id": "item_114",
+          "name": "Майонез",
+          "price": "450",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897302501-479645573.png"
+        },
+        {
+          "id": "item_115",
+          "name": "Кетчуп",
+          "price": "450",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897324271-411653127.png"
+        },
+        {
+          "id": "item_116",
+          "name": "Сметана",
+          "price": "500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897344738-664114046.png"
+        },
+        {
+          "id": "item_117",
+          "name": "Лазджан",
+          "price": "450",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897353740-520086202.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_118",
+      "name": "Выпечка",
+      "items": [
+        {
+          "id": "item_119",
+          "name": "Лепешка-мини/ лаваш",
+          "price": "250",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897385961-164767387.png"
+        },
+        {
+          "id": "item_120",
+          "name": "Хлебная корзина",
+          "price": "750",
+          "variants": [],
+          "description": "(Лепешки, бородинский хлеб, лаваш)",
+          "image": "images/img-1789897396893-552374021.png"
+        },
+        {
+          "id": "item_121",
+          "name": "Чебуреки-мини с мясом",
+          "price": "2300",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897407858-934062872.png"
+        },
+        {
+          "id": "item_122",
+          "name": "Чебуреки с джусаем и жареным яйцом",
+          "price": "2300",
+          "variants": [],
+          "description": "(Подаются с соусом тартар и красным соусом)",
+          "image": "images/img-1789897416757-939287850.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_123",
+      "name": "Хычины",
+      "items": [
+        {
+          "id": "item_124",
+          "name": "Хычины с сыром",
+          "price": "2500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897443325-782032709.png"
+        },
+        {
+          "id": "item_125",
+          "name": "Хычины с брынзой и зеленью",
+          "price": "2500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897459469-56444432.png"
+        },
+        {
+          "id": "item_126",
+          "name": "Хычины с сыром и картошкой",
+          "price": "2500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897478345-414300522.png"
+        },
+        {
+          "id": "item_127",
+          "name": "Хачапури по-мегрельски",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897490778-846854536.png"
+        },
+        {
+          "id": "item_128",
+          "name": "Хачапури по-аджарски",
+          "price": "3200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897512944-843528515.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_129",
+      "name": "Пицца",
+      "items": [
+        {
+          "id": "item_130",
+          "name": "Пицца Маргарита",
+          "price": "2800",
+          "variants": [],
+          "description": "(Моцарелла, помидор)",
+          "image": "images/img-1789897587963-191996918.png"
+        },
+        {
+          "id": "item_131",
+          "name": "Пицца Пепперони",
+          "price": "3200",
+          "variants": [],
+          "description": "(Копчёная колбаса, моцарелла)",
+          "image": "images/img-1789897598768-886982324.png"
+        },
+        {
+          "id": "item_132",
+          "name": "Пицца Альфредо",
+          "price": "3200",
+          "variants": [],
+          "description": "(Моцарелла, куриное филе, шампиньоны)",
+          "image": "images/img-1789897606243-527744094.png"
+        },
+        {
+          "id": "item_133",
+          "name": "Пицца Мексиканская",
+          "price": "3400",
+          "variants": [],
+          "description": "(Моцарелла, фасоль, полусладкий перец, охотничьи колбаски, копчёная курица, шампиньоны, помидоры черри)",
+          "image": "images/img-1789897614792-150080950.png"
+        },
+        {
+          "id": "item_134",
+          "name": "Пицца четыре сезона",
+          "price": "3400",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897630490-470746261.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_135",
+      "name": "Горячие напитки",
+      "items": [
+        {
+          "id": "item_136",
+          "name": "Чашка чая",
+          "price": "350",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897659917-413451340.png"
+        },
+        {
+          "id": "item_137",
+          "name": "Чёрный / Зелёный чай",
+          "price": "",
+          "variants": [
+            {
+              "name": "1L",
+              "price": "700"
+            },
+            {
+              "name": "2L",
+              "price": "1200"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789897686421-631362759.png"
+        },
+        {
+          "id": "item_138",
+          "name": "Чай с молоком",
+          "price": "",
+          "variants": [
+            {
+              "name": "1L",
+              "price": "800"
+            },
+            {
+              "name": "2L",
+              "price": "1300"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789897714311-25483943.png"
+        },
+        {
+          "id": "item_139",
+          "name": "Ташкентский чай",
+          "price": "",
+          "variants": [
+            {
+              "name": "1L",
+              "price": "1300"
+            },
+            {
+              "name": "2L",
+              "price": "2000"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789897725150-317177410.png"
+        },
+        {
+          "id": "item_140",
+          "name": "Марокканский чай",
+          "price": "",
+          "variants": [
+            {
+              "name": "1L",
+              "price": "1300"
+            },
+            {
+              "name": "2L",
+              "price": "2000"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789897739544-922333566.png"
+        },
+        {
+          "id": "item_141",
+          "name": "Имбирный чай с лимоном",
+          "price": "",
+          "variants": [
+            {
+              "name": "1L",
+              "price": "1500"
+            },
+            {
+              "name": "2L",
+              "price": "2500"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789897750927-588037392.png"
+        },
+        {
+          "id": "item_142",
+          "name": "Облепиховый чай",
+          "price": "",
+          "variants": [
+            {
+              "name": "1L",
+              "price": "1500"
+            },
+            {
+              "name": "2L",
+              "price": "2500"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789897763088-130542321.png"
+        },
+        {
+          "id": "item_143",
+          "name": "Малиновый чай",
+          "price": "",
+          "variants": [
+            {
+              "name": "1L",
+              "price": "1500"
+            },
+            {
+              "name": "2L",
+              "price": "2500"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789897784508-750453055.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_144",
+      "name": "Десерты",
+      "items": [
+        {
+          "id": "item_145",
+          "name": "Наполеон",
+          "price": "1500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897818875-327208575.png"
+        },
+        {
+          "id": "item_146",
+          "name": "Медовый",
+          "price": "1500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897831412-540535104.png"
+        },
+        {
+          "id": "item_147",
+          "name": "Фруктовая нарезка",
+          "price": "3500",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897866556-190490712.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_148",
+      "name": "К чаю",
+      "items": [
+        {
+          "id": "item_149",
+          "name": "Мёд",
+          "price": "420",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897878100-465863920.png"
+        },
+        {
+          "id": "item_150",
+          "name": "Молоко",
+          "price": "420",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897888697-861273004.png"
+        },
+        {
+          "id": "item_151",
+          "name": "Лимон",
+          "price": "420",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897900889-321407315.png"
+        },
+        {
+          "id": "item_1789897909056",
+          "name": "Шоколад “Казахстан”",
+          "price": "1300",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789897969763-215681639.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_152",
+      "name": "Прохладительные напитки",
+      "items": [
+        {
+          "id": "item_153",
+          "name": "Компот 0,25/1л",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.25л",
+              "price": "380"
+            },
+            {
+              "name": "1л",
+              "price": "1200"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789897985331-492451919.png"
+        },
+        {
+          "id": "item_154",
+          "name": "Сок «Piko» 1л",
+          "price": "1600",
+          "variants": [],
+          "description": "(Апельсин, яблоко, персик, томат)",
+          "image": "images/img-1789898018859-635872116.png"
+        },
+        {
+          "id": "item_155",
+          "name": "Лимонады в ассортименте 0,4л./ 1л",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.4л",
+              "price": "790"
+            },
+            {
+              "name": "1л",
+              "price": "1990"
+            }
+          ],
+          "description": "(Мохито, Манго-Маракуйя, Тархун)",
+          "image": "images/img-1789898067513-574297585.png"
+        },
+        {
+          "id": "item_156",
+          "name": "Coca-Cola, Fantа, Sprite 0,25/1л",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.25л",
+              "price": "780"
+            },
+            {
+              "name": "1л",
+              "price": "1200"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898083237-500369989.png"
+        },
+        {
+          "id": "item_157",
+          "name": "Вода «Бонаква» 0,5/1л",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "420"
+            },
+            {
+              "name": "1л",
+              "price": "760"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898258490-805428719.png"
+        },
+        {
+          "id": "item_158",
+          "name": "Вода «Borjomi» 0,5 ст/бут.",
+          "price": "1350",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898207330-696904663.png"
+        },
+        {
+          "id": "item_159",
+          "name": "Тассай 0,5/1л",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "700"
+            },
+            {
+              "name": "1л",
+              "price": "990"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898224402-690889693.png"
+        },
+        {
+          "id": "item_160",
+          "name": "REDBULL 0.25",
+          "price": "1490",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898276578-203016794.png"
+        },
+        {
+          "id": "item_161",
+          "name": "Чай «Fuse tea» 1л",
+          "price": "990",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898302045-651530070.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_162",
+      "name": "Кофе",
+      "items": [
+        {
+          "id": "item_163",
+          "name": "Американо",
+          "price": "960",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898329044-753680508.png"
+        },
+        {
+          "id": "item_164",
+          "name": "Капучино",
+          "price": "1300",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898337243-48974206.png"
+        },
+        {
+          "id": "item_165",
+          "name": "Латте",
+          "price": "1300",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898345954-113229849.png"
+        },
+        {
+          "id": "item_166",
+          "name": "Эспрессо",
+          "price": "960",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898357340-584322276.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_167",
+      "name": "Алкоголь",
+      "items": [
+        {
+          "id": "item_168",
+          "name": "Водка Хортиця 0.5L / 100гр",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "6000"
+            },
+            {
+              "name": "100гр",
+              "price": "1200"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898460468-781241550.png"
+        },
+        {
+          "id": "item_169",
+          "name": "Водка Немирофф 0.5L / 100гр",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "9000"
+            },
+            {
+              "name": "100гр",
+              "price": "1800"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898441272-585481083.png"
+        },
+        {
+          "id": "item_170",
+          "name": "Водка Абсолют 0.5L / 100гр",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "12000"
+            },
+            {
+              "name": "100гр",
+              "price": "2500"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898470177-313176275.png"
+        },
+        {
+          "id": "item_171",
+          "name": "Коньяк Казахстан 0.5L / 100гр",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "11000"
+            },
+            {
+              "name": "100гр",
+              "price": "2000"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898482404-857066309.png"
+        },
+        {
+          "id": "item_172",
+          "name": "Бренди «ChachaGold» 43% 0,5/100гр",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "6940"
+            },
+            {
+              "name": "100гр",
+              "price": "1400"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898491321-455256939.png"
+        },
+        {
+          "id": "item_173",
+          "name": "Виски “Jameson” 0.5L / 100гр",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "18000"
+            },
+            {
+              "name": "100гр",
+              "price": "3500"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898502146-49488859.png"
+        },
+        {
+          "id": "item_174",
+          "name": "Виски «William Lawson’s» 0,5л./100гр",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.5л",
+              "price": "12000"
+            },
+            {
+              "name": "100гр",
+              "price": "2000"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898530295-175308744.png"
+        },
+        {
+          "id": "item_175",
+          "name": "Вино «Kvareli» домашнее красное п/слад. 0,7л./250гр",
+          "price": "",
+          "variants": [
+            {
+              "name": "0.7л",
+              "price": "6300"
+            },
+            {
+              "name": "250гр",
+              "price": "2200"
+            }
+          ],
+          "description": "",
+          "image": "images/img-1789898568425-554349265.png"
+        },
+        {
+          "id": "item_176",
+          "name": "Вино «Алазанская Долина» бел. п/слад. 0.75л",
+          "price": "6000",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898609937-677881962.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_177",
+      "name": "Пиво",
+      "items": [
+        {
+          "id": "item_178",
+          "name": "Разливное \"Шымкент\"",
+          "price": "980",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898694476-516955095.png"
+        },
+        {
+          "id": "item_179",
+          "name": "Разливное \"Прага\"",
+          "price": "1100",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898705044-101988936.png"
+        },
+        {
+          "id": "item_180",
+          "name": "Разливное \"Немецкое\"",
+          "price": "1100",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898730960-681469463.png"
+        },
+        {
+          "id": "item_181",
+          "name": "Пиво «Мiller» 0,5л. ст/бут",
+          "price": "1480",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898755325-557041196.png"
+        },
+        {
+          "id": "item_182",
+          "name": "Пиво «Efes» б/алгол. 0,45л. ж/бан",
+          "price": "980",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898765725-162898902.png"
+        }
+      ]
+    },
+    {
+      "id": "cat_183",
+      "name": "Закуски",
+      "items": [
+        {
+          "id": "item_184",
+          "name": "Сыр чечил",
+          "price": "1200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898780838-598867565.png"
+        },
+        {
+          "id": "item_185",
+          "name": "Фисташки",
+          "price": "1400",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898792125-670769466.png"
+        },
+        {
+          "id": "item_186",
+          "name": "Анчоусы",
+          "price": "1400",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898809997-143078218.png"
+        },
+        {
+          "id": "item_187",
+          "name": "Желтый полосатик",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898831415-659412999.png"
+        },
+        {
+          "id": "item_188",
+          "name": "Арахис",
+          "price": "780",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898845081-744583750.png"
+        },
+        {
+          "id": "item_189",
+          "name": "Курт",
+          "price": "800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898855848-353903210.png"
+        },
+        {
+          "id": "item_190",
+          "name": "Чипсы",
+          "price": "860",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898867912-209349015.png"
+        },
+        {
+          "id": "item_191",
+          "name": "Креветки к пиву",
+          "price": "2800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898879695-15200785.png"
+        },
+        {
+          "id": "item_192",
+          "name": "Гарлики чесночные",
+          "price": "1200",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898890514-839624867.png"
+        },
+        {
+          "id": "item_193",
+          "name": "Луковые кольца",
+          "price": "800",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898897460-489647824.png"
+        },
+        {
+          "id": "item_194",
+          "name": "Сырные палочки",
+          "price": "1600",
+          "variants": [],
+          "description": "",
+          "image": "images/img-1789898914019-92609493.png"
+        },
+        {
+          "id": "item_195",
+          "name": "Сет «Пивной переполох»",
+          "price": "8600",
+          "variants": [],
+          "description": "(Колбаски гриль, крылышки барбекю, сырные палочки,чечил, чесночные гарлики, охотничьи колбаски, жареный лаваш)",
+          "image": "images/img-1789898951362-860729779.png"
+        }
+      ]
+    }
+  ]
+}
