@@ -102,16 +102,18 @@ function buildCard(item) {
         foot = `
             <span class="price-badge">${p} ₸</span>
             <button class="btn-add" onclick="addItem('${item.id}','${esc(item.name)}','${p}')">
-                <span class="material-symbols-rounded">add</span>В корзину
+                <span class="material-symbols-rounded">add</span>Корзина
             </button>`;
     }
 
     card.innerHTML = `
         ${img}
-        <div class="card-body">
+        <div class="card-center">
             <div class="card-name">${item.name}</div>
             <div class="card-desc">${item.description || ''}</div>
-            <div class="card-foot" style="${item.variants?.length ? 'flex-direction:column;align-items:stretch;' : ''}">${foot}</div>
+        </div>
+        <div class="card-right" style="${item.variants?.length ? 'justify-content:flex-start;' : ''}">
+            ${foot}
         </div>`;
     return card;
 }
@@ -270,7 +272,10 @@ function syncCart() {
     }
 
     if (total) total.textContent = `${sum} ₸`;
-    if (dot)   dot.style.display = count > 0 ? 'block' : 'none';
+    if (dot) {
+        dot.style.display = count > 0 ? 'flex' : 'none';
+        dot.textContent = count > 99 ? '99+' : count;
+    }
 }
 
 // ── QR ────────────────────────────────────────────
